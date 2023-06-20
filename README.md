@@ -1,9 +1,10 @@
 ## movie_recommendation
 
-# Overview 
-This is a project of Movie Recommendation using the tmdb datasets.<br>
-This Project of recommendation is based on the Content Based Recommendation system.
 
+# Overview 
+This Project of recommendation is based on the Content Based Recommendation system. It is based on the content that user provides in the system. 
+Here, in this small project it is made by using the description of the movie and extracting the similarity between the words in the description.<br>
+This is a project of Movie Recommendation using the tmdb datasets.
 
 # Steps used in this Project
 ### It is based on Content Based Filtering.
